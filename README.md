@@ -4,3 +4,7 @@
 ### python
 
 hello!
+
+## 20190423
+
+how to use git
