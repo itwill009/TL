@@ -1,10 +1,6 @@
-# today i learned
+# today i learned with python
+
 ## 20180423
 
-### python
-
-hello!
-
-## 20190423
-
-how to use git
+* how to use git
+* regular expression
