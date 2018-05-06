@@ -15,3 +15,7 @@
 ## 20180429
 
 * try to use url library with python
+
+## 20180507
+
+* try to use urllib, bs4 library
