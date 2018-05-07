@@ -19,4 +19,4 @@
 ## 20180507
 
 * try to use urllib, bs4 library
-* 
+* try to handle xml, json file
