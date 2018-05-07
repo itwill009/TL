@@ -19,3 +19,4 @@
 ## 20180507
 
 * try to use urllib, bs4 library
+* 
