@@ -20,3 +20,11 @@
 
 * try to use urllib, bs4 library
 * try to handle xml, json file
+
+## 20180514
+
+* done my first project!
+
+## 20180515
+
+* prepare for coding test
