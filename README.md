@@ -28,3 +28,11 @@
 ## 20180515
 
 * prepare for coding test
+
+## 20180516
+
+* prepare for coding test
+
+## 20180517
+
+* prepare for coding test
