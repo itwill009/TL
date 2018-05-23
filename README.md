@@ -40,3 +40,4 @@
 ## 20180523
 
 * make github page
+* study adsp
