@@ -41,3 +41,7 @@
 
 * make github page
 * study adsp
+
+## 20180524
+
+* python yield
