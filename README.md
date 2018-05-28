@@ -9,9 +9,6 @@
 
 * create socket using python
 
-## 20180426
-
-
 ## 20180429
 
 * try to use url library with python
