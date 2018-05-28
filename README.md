@@ -42,3 +42,7 @@
 ## 20180524
 
 * python yield
+
+## 20180528
+
+* queue, linked list, stack
