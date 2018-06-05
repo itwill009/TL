@@ -46,3 +46,11 @@
 ## 20180528
 
 * queue, linked list, stack
+
+## 20180604
+
+* try to use seaborn, scikit-learn
+
+## 20180605
+
+* try to review scikit-learn book, todayscode
