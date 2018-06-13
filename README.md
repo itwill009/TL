@@ -1,4 +1,4 @@
-# today i learned
+# Record What I Learned or Tried Today
 
 ## 20180423
 
@@ -54,3 +54,9 @@
 ## 20180605
 
 * try to review scikit-learn book, todayscode
+
+## 20180606 ~ 20180614
+
+* practice scikit-learn
+
+
